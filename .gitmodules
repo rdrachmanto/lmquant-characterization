@@ -1,0 +1,3 @@
+[submodule "methods/AutoGPTQ"]
+	path = methods/AutoGPTQ
+	url = git@github.com:rdrachmanto/repro-autogptq.git
